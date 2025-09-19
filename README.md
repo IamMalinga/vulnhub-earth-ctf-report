@@ -1,9 +1,9 @@
 # Penetration Test Report — VulnHub: The Planets — *Earth*
 
-**Author:** \[Your Name]
+**Author:** Malinga Samarakoon
 **Date:** 2025-09-20
 **Target:** VulnHub VM — *The Planets: Earth* (lab)
-**Tester:** \[Your Name / Team]
+**Tester:** Malinga Samarakoon
 
 ---
 
