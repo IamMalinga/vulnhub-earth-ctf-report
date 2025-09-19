@@ -400,12 +400,3 @@ find / -perm -u=s -type f 2>/dev/null
 
 ---
 
-### Final notes
-
-This report is structured so you can drop in screenshots and raw outputs where placeholders exist, then export the finished document to PDF for submission or archival. If you would like, I can:
-
-* Convert this Markdown to a formatted PDF (I will create placeholders for images).
-* Produce a 1-page executive summary for managers.
-* Create a concise `README.md` for adding this to your portfolio/GitHub with sanitized artifacts.
-
-Which output would you like next?
